@@ -35,4 +35,4 @@ A factor with levels Down and Up indicating whether the market had a positive or
 
 Source - Raw values of the S&P 500 were obtained from Yahoo Finance and then converted to percentages and lagged. 
 
-References: James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013) An Introduction to Statistical Learning with applications in R, www.StatLearning.com, Springer-Verlag, New York 
+Reference - James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013) An Introduction to Statistical Learning with applications in R, www.StatLearning.com, Springer-Verlag, New York 
